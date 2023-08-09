@@ -1,8 +1,8 @@
 package main
-
 import "fmt"
 
-func main() {
+//Added Comment
 
+func main(){ //you have to write the { after the function name
 	fmt.Println("Merging from All_Basic")
 }
