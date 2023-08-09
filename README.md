@@ -1,0 +1,2 @@
+# GoGoaGone
+Everything about GO
